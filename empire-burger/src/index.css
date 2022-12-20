@@ -1,0 +1,19 @@
+:root {
+  font-family: "Lato", sans-serif;
+  font-size: 1rem;
+  line-height: 24px;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+
+  --background: #faf3f2;
+  --red: #f43127;
+  --yellow: #f59a1b;
+  --title: #1d0605e5;
+  --text: #1d0605b0;
+  --title-black: #635352;
+}
